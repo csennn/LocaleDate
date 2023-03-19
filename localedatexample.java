@@ -1,5 +1,3 @@
-package bos;
-
 import java.time.LocalDate;
 
 public class LocalDateExample {
